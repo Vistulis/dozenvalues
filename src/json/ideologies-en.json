@@ -12,6 +12,18 @@
         "desc": "Ideology of Heinz Dieterich, claiming that both capitalism and marxism-leninism failed, and aims to focus on worker and minority issues using democratic means."
     },
     {
+        "name": "Vistulism",
+        "stats": [
+            20,
+            15,
+            30,
+            80,
+            60,
+            40
+        ],
+        "desc": "Ideology of Vistula, believing that equality of opportunity mixed with no government subsidization can create a fairer society."
+    },
+    {
         "name": "Absolute Monarchism",
         "stats": [
             5,
