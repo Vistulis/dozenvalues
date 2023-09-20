@@ -24,6 +24,18 @@
     "desc": "System under which an individual exerts absolute power over all society and the economy via hereditary power."
   },
   {
+    "name": "Alstūdism",
+    "stats": [
+      75,
+      89,
+      72,
+      34,
+      26,
+      66
+    ],
+    "desc": "Political ideology of Borker, after he stopped being an anarchist and decided to become fascismo-y instead."
+  },
+  {
       "name": "Vistulism",
       "stats": [
           20,
